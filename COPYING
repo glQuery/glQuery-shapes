@@ -1,8 +1,8 @@
-GLQUERY-PRIMITIVES IS PUBLIC DOMAIN SOFTWARE
---------------------------------------------
+GLQUERY-SHAPES IS PUBLIC DOMAIN SOFTWARE
+----------------------------------------
 
-glQuery-primitives is open source software released into the public domain
-using the CC0 dedication. For the formal legal code please read
+glQuery-shapes is open source software released into the public domain using
+the CC0 dedication. For the formal legal code please read
 licenses/LEGALCODE-cc0-1.0.
 
 Note that CC0 is approved by the Free Software Foundation and is fully
@@ -11,7 +11,7 @@ as the MIT license. In countries where a public domain dedication cannot
 be recognized legally, the CC0 dedication provides an extremely permissive
 open source license.
 
-Here's a quick human readable summary of the CC0 dedication from the Creative 
+Here's a quick human readable summary of the CC0 dedication from the Creative
 Commons website, http://creativecommons.org/publicdomain/zero/1.0/
 
 No Copyright:
@@ -40,11 +40,11 @@ MAKING MODIFICATIONS
 --------------------
 
 If you would like to retain copyright on your modifications to
-glQuery-primitives then we advise you to please first delete the
+glQuery-shapes then we advise you to please first delete the
 licenses/LEGALCODE-cc0-1.0 and COPYING files in order to avoid any confusion.
 This will let people know that you do not to wish to dedicate your own changes
 to the public domain.
 
-The glQuery-primitives team will not accept any pull requests or patches that
-are not fully released into the public domain.
+The glQuery-shapes team will not accept any pull requests or patches that are
+not fully released into the public domain.
 
